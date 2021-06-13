@@ -11,7 +11,7 @@
   <div class="container">
       <div class="navbar">
           <div class="logo">
-              <a href="#">HOŞGELDİNİZ</a>
+              <a href="#">OYUNUNUZU YAYINLAYIN</a>
           </div>
           <uL>
               <li><a href="index" class="active">GameOveer</a></li>
