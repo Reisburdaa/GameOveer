@@ -18,7 +18,7 @@
               <li><a href="#">Mert</a></li>
               <li><a href="#">Resim/Video</a></li>
               <li><a href="index2">Youtube</a></li>
-              <p>Öncelikle burası bir oyun yayınlama sitesidir.</p>
+              <p>Öncelikle burası bir oyun yayınlama sitesidir. Sitedeki oyunları ücretsiz olarak indirip sorunsuz bir şekilde oynayabilirsiniz.</p>
           </uL>
       </div>
   </div>
