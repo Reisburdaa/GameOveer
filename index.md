@@ -19,11 +19,6 @@
               <li><a href="#">Resim/Video</a></li>
               <li><a href="index2">Youtube</a></li>
           </uL>
-          <p>herkese merhabala3rslfksoıfhsudfhsuıfasdgfğosfgsudhgfsguyfh
-          ajhfuahfuıafhsuıhfadfhsuoıfhsauofhsfhsfhauoıhfs
-          akıjfoasıhfouafha
-          huhuhuhuhu
-          </p>
       </div>
   </div>
 </body>
