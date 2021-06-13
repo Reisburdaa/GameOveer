@@ -11,7 +11,7 @@
   <div class="container">
       <div class="navbar">
           <div class="logo">
-              <a href="#">HOŞGELDİNİZ</a>
+              <a href="#">YOUTUBE</a>
           </div>
           <uL>
               <li><a href="index">Ana sayfa</a></li>
