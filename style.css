@@ -3,11 +3,11 @@
     padding: 0;
 }
 
-.navbar{
-    background: url(anasayfaresmi.jpg);
-    height: 50vh;
+.navbar ul li{
+    background: url();
+    height: 100vh;
     background-size: 100% 100%;
-    margin-top: 700px;
+    margin-top: 50px;
 }
 
 .container .navbar{
