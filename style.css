@@ -3,10 +3,10 @@
     padding: 0;
 }
 
-.container{
+.navbar{
     background: url(anasayfaresmi.jpg);
-    height: 100vh;
-    background-size: 100% 115%;
+    height: 50vh;
+    background-size: 100% 100%;
     margin-top: 700px;
 }
 
