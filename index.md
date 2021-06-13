@@ -19,7 +19,11 @@
               <li><a href="#">Resim/Video</a></li>
               <li><a href="index2">Youtube</a></li>
           </uL>
-          selamlarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+          Öncelikle burası oyunların yayınlandığı yerdir. İstediğiniz oyunu ücretsiz indirip oynayabilirsiniz.
+
+
+
+          Aynı zamanda oyunlarınızı bu sitede yayınlayabilirsiniz.
       </div>
   </div>
     
