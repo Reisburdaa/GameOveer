@@ -14,9 +14,9 @@
               <a href="#">YOUTUBE</a>
           </div>
           <uL>
-              <li><a href="index">Ana sayfa</a></li>
-              <li><a href="#">Mert</a></li>
-              <li><a href="#">Resim/Video</a></li>
+              <li><a href="index">GameOveer</a></li>
+              <li><a href="#">GameOveer Nedir</a></li>
+              <li><a href="#">Oyun Yayınla</a></li>
               <li><a href="index2">Youtube</a></li>
               <p>.</p>
           </uL>
