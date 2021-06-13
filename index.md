@@ -19,7 +19,6 @@
               <li><a href="#">Resim/Video</a></li>
               <li><a href="index2">Youtube</a></li>
           </uL>
-          ## merhaba hoşgeldiniz
       </div>
   </div>
     
