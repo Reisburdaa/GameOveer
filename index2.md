@@ -18,7 +18,7 @@
               <li><a href="#">Mert</a></li>
               <li><a href="#">Resim/Video</a></li>
               <li><a href="index2">Youtube</a></li>
-              <p>Öncelikle burası bir oyun yayınlama sitesidir.</p>
+              <p>.</p>
           </uL>
       </div>
   </div>
