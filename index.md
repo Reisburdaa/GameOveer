@@ -19,10 +19,11 @@
               <li><a href="#">Resim/Video</a></li>
               <li><a href="index2">Youtube</a></li>
           </uL>
-          <p>herkese merhabala3r</p>
+          <p>herkese merhabala3r
+          
+          </p>
       </div>
   </div>
-    <p>herkese merhabalar6</p>
 </body>
 </html>
 
