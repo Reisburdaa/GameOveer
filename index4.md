@@ -18,7 +18,7 @@
               <li><a href="index4" class="active">GameOveer Nedir?</a></li>
               <li><a href="index3">Oyun Yayınla</a></li>
               <li><a href="index2">Youtube</a></li>
-              <p>NAAABEEERR</p>
+              <p>YAYINDAYIZZ https://www.twitch.tv/darkled7</p>
           </uL>
       </div>
   </div>
