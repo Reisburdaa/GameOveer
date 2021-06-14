@@ -18,7 +18,7 @@
               <li><a href="index4">GameOveer Nedir?</a></li>
               <li><a href="index3">Oyun Yayınla</a></li>
               <li><a href="index2">Youtube</a></li>
-              <li><b href="index2">Üye Ol</b></li>
+              <li><b href="index2">ÜYE OL</b></li>
               <p>Öncelikle burası bir oyun yayınlama sitesidir. Sitedeki oyunları ücretsiz olarak indirip sorunsuz bir şekilde oynayabilirsiniz.</p>
           </uL>
       </div>
