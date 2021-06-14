@@ -18,6 +18,7 @@
               <li><a href="index4">GameOveer Nedir?</a></li>
               <li><a href="index3">Oyun Yayınla</a></li>
               <li><a href="index2" class="active">Youtube</a></li>
+              <li><b href="index2">Üye Ol</b></li>
               <p>.</p>
           </uL>
       </div>
