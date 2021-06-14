@@ -58,7 +58,7 @@
 .navbar ul li a.active,
 .navbar ul li a:hover{
     background:#ff6e00;
-    border-radius: 2px;
+    border-radius: 5px;
     
 }
 
