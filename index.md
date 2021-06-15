@@ -19,10 +19,14 @@
               <li><a href="index3">Oyun Yayınla</a></li>
               <li><a href="index2">Youtube</a></li>
               <li><b href="index2">ÜYE OL</b></li>
-              <p>Öncelikle burası bir oyun yayınlama sitesidir. Sitedeki oyunları ücretsiz olarak indirip sorunsuz bir şekilde oynayabilirsiniz.
+              <p>
+              Öncelikle burası bir oyun yayınlama sitesidir. Sitedeki oyunları ücretsiz olarak indirip sorunsuz bir şekilde oynayabilirsiniz.
               
               
-              <img url(file:///C:/Users/ibrah/Downloads/%E2%80%94Pngtree%E2%80%94glitch%20electronic%20sound%20fault%20style_5491381.png) widht="350" height="200"> </p>
+              <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fgame_over&psig=AOvVaw1qRO8UTj3jU-E7t7beA2aS&ust=1623804815854000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDW-MK2mPECFQAAAAAdAAAAABAD" widht="350" height="200">
+              
+              
+              </p>
           </uL>
       </div>
   </div>
