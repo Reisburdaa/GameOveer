@@ -52,7 +52,7 @@
 
  .navbar ul p{
     font-size: 15px;
-    font-family: monospace;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .navbar ul li a.active,
