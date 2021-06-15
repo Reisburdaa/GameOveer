@@ -21,7 +21,7 @@
               <li><b href="index2">ÜYE OL</b></li>
               <p>Öncelikle burası bir oyun yayınlama sitesidir. Sitedeki oyunları ücretsiz olarak indirip sorunsuz bir şekilde oynayabilirsiniz.
               
-              <img src="https://i.scdn.co/image/ab67616d0000b2738c0559b991acf898adfede08" widht="350" height="200"></img>
+              <img src="https://i.scdn.co/image/ab67616d0000b2738c0559b991acf898adfede08" widht="350" height="200">
               
               </p>
           </uL>
