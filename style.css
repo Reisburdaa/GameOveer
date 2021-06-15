@@ -52,7 +52,8 @@
 
  .navbar ul p{
     font-size: 15px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:BigLakeItalic;
+    src:url(BigLakeItalic.ttf);
 }
 
 .navbar ul li a.active,
