@@ -27,7 +27,7 @@
  
        
     
-              <img src="https://cdn.dribbble.com/users/1355613/screenshots/6914991/____120.jpg"> 
+              <img src="https://cdn.dribbble.com/users/1355613/screenshots/6914991/____120.jpg" weidht="300" weight="200"> 
 
               </p> 
           </uL>
