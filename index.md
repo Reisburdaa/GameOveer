@@ -23,7 +23,7 @@
               Öncelikle burası bir oyun yayınlama sitesidir. Sitedeki oyunları ücretsiz olarak indirip sorunsuz bir şekilde oynayabilirsiniz.
               
               
-              <img src="https://cdn.dribbble.com/users/1355613/screenshots/6914991/____120.jpg" widht="350" height="200">
+              <img src="https://cdn.dribbble.com/users/1355613/screenshots/6914991/____120.jpg" widht="500" height="450">
               
               
               </p>
