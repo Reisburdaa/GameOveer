@@ -21,7 +21,7 @@
               Öncelikle burası bir oyun yayınlama sitesidir. Sitedeki oyunları ücretsiz olarak indirip sorunsuz bir şekilde oynayabilirsiniz.
               
               
-              <img src="https://cdn.dribbble.com/users/1355613/screenshots/6914991/____120.jpg" widht="400" height="350"> 
+              <img src="https://cdn.dribbble.com/users/1355613/screenshots/6914991/____120.jpg" widht="450" height="400"> 
               
               Site hakkında bilgi edinmek istiyorsanız <a href="index4"><b>GameOveer Nedir?</b></a> sayfasına gidebilirsiniz
             
