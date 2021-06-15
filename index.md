@@ -23,7 +23,7 @@
               Öncelikle burası bir oyun yayınlama sitesidir. Sitedeki oyunları ücretsiz olarak indirip sorunsuz bir şekilde oynayabilirsiniz.
               
               
-              <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fgame_over&psig=AOvVaw1qRO8UTj3jU-E7t7beA2aS&ust=1623804815854000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDW-MK2mPECFQAAAAAdAAAAABAD" widht="350" height="200">
+              <img src="https://cdn.dribbble.com/users/1355613/screenshots/6914991/____120.jpg" widht="350" height="200">
               
               
               </p>
