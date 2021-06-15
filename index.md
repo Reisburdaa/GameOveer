@@ -22,7 +22,7 @@
               <p>Öncelikle burası bir oyun yayınlama sitesidir. Sitedeki oyunları ücretsiz olarak indirip sorunsuz bir şekilde oynayabilirsiniz.
               
               
-              <img src="https://i.scdn.co/image/ab67616d0000b2738c0559b991acf898adfede08" widht="350" height="200"> </p>
+              <img src="file:///C:/Users/ibrah/Downloads/%E2%80%94Pngtree%E2%80%94glitch%20electronic%20sound%20fault%20style_5491381.png" widht="350" height="200"> </p>
           </uL>
       </div>
   </div>
