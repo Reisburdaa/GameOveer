@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ROCK REİS</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -22,13 +21,18 @@
               Öncelikle burası bir oyun yayınlama sitesidir. Sitedeki oyunları ücretsiz olarak indirip sorunsuz bir şekilde oynayabilirsiniz.
               
               
-              <img src="https://cdn.dribbble.com/users/1355613/screenshots/6914991/____120.jpg" widht="500" height="450">
+              <img src="https://cdn.dribbble.com/users/1355613/screenshots/6914991/____120.jpg" widht="500" height="450"> 
+              
+              Site hakkında bilgi edinmek istiyorsanız <a href="index4"><b>GameOveer Nedir?</b></a> sayfasına gidebilirsiniz
               
               
-              </p>
+              
+              
+              </p> 
+
           </uL>
       </div>
-  </div>
+   </div>
 
 </body>
 </html>
