@@ -52,8 +52,7 @@
 
  .navbar ul p{
     font-size: 15px;
-    font-family:BigLakeItalic;
-    src:url(BigLakeItalic.ttf);
+    font-family: monospace;
 }
 
 .navbar ul li a.active,
