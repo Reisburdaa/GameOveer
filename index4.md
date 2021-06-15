@@ -17,7 +17,7 @@
               <li><a href="index4" class="active">GameOveer Nedir?</a></li>
               <li><a href="index3">Oyun Yayınla</a></li>
               <li><a href="index2">Youtube</a></li>
-              <p></p>
+              <p>GameOveer'a hoşgeldiniz oyunseverler, hiçbir hedefimiz yoktur tamamen sosyalleşme amaçlı yapılan bir sitedeyiz. Oyunlar oynayıp ve oyunlar yaratıp yapılan  </p>
           </uL>
       </div>
   </div>
