@@ -19,7 +19,7 @@
               <li><a href="index2">Youtube</a></li>
               <p>GameOveer'a hoşgeldiniz oyunseverler, hiçbir hedefimiz yoktur tamamen sosyalleşme amaçlı yapılan bir sitedeyiz. Oyunlar oynayıp ve oyunlar yaratıp yapılan yorumlarla kendinizi geliştirebilirsiniz 
 
-              <img src="https://cdn.dribbble.com/users/812515/screenshots/6586262/800.jpg?compress=1&resize=800x600">
+              <img src="https://cdn.dribbble.com/users/812515/screenshots/6586262/800.jpg?compress=1&resize=800x600" weidht="400" weight="300">
               
                </p>
           </uL>
