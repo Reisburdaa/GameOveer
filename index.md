@@ -29,12 +29,6 @@
     
               <img src="https://cdn.dribbble.com/users/1355613/screenshots/6914991/____120.jpg"> 
 
-              oyun1 indir
-
-              <img src="https://cdn.dribbble.com/users/776185/screenshots/2933042/d.jpg?compress=1&resize=400x300" widht="500" wheight="450">
-
-              <a download href="Big Lake.zip">Rar indir</a><br>
-
               </p> 
           </uL>
       </div>
