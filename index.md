@@ -19,15 +19,9 @@
               <li><a href="index2">Youtube</a></li>
               <p>
               Öncelikle burası bir oyun yayınlama sitesidir. Sitedeki oyunları ücretsiz olarak indirip sorunsuz bir şekilde oynayabilirsiniz.
-       
+              Site hakkında bilgi edinmek istiyorsanız <a href="index4"><b>GameOveer Nedir?</b></a> sayfasına gidebilirsiniz
               <img src="https://cdn.dribbble.com/users/369622/screenshots/12286711/media/c0cfa6b249a334ce4123398221008906.png?compress=1&resize=1200x900">
               
-       
-              Site hakkında bilgi edinmek istiyorsanız <a href="index4"><b>GameOveer Nedir?</b></a> sayfasına gidebilirsiniz
- 
-       
-    
-              <img src="https://cdn.dribbble.com/users/1355613/screenshots/6914991/____120.jpg"> 
 
               </p> 
           </uL>
