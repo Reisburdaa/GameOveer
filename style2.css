@@ -39,6 +39,7 @@
     display: inline-block;
     margin: 0 8px;
     line-height: 229px;
+    margin-right: 100;
 }
 
 .navbar ul li a{
