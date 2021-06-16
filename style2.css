@@ -38,7 +38,7 @@
     list-style: none;
     display: inline-block;
     margin: 0 8px;
-    line-height: 200px;
+    line-height: 250px;
 }
 
 .navbar ul li a{
@@ -57,7 +57,7 @@
 
 .navbar ul li a.active,
 .navbar ul li a:hover{
-    background:#ff6e00;
+    background: indigo;
     border-radius: 5px;
     
 }
